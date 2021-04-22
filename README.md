@@ -10,7 +10,7 @@ AVL  Package:-
 DSF.java
 Java Swing Framework is used.
 1)Main window - Allows the operations such as Insert,Delete ,Search and Display.
-2)Second Window - Dispaly the sortrd records  In JTable. 
+2)Second Window - Dispaly the sorted records  In JTable. 
 
 
-Sortes Output - Inorder Traversal of AVL Tree gives the Sorted Data , which is then Stored one bye one in Object[][] Data .
+Sorted Output - Inorder Traversal of AVL Tree gives the Sorted Data , which is then Stored one bye one in Object[][] Data .
