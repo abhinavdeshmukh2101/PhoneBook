@@ -8,7 +8,8 @@ AVL  Package:-
 4) getdata_call(Object[][])
 
 DSF.java
-Java Swing Framework is used.
+Java Swing Framework is used for making GUI.
+Core Java is used for AVL Code.
 1)Main window - Allows the operations such as Insert,Delete ,Search and Display.
 2)Second Window - Dispaly the sorted records  In JTable. 
 
